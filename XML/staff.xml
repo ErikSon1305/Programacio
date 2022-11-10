@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<company>
+    <staff id="1001">
+        <firstname>Francisco</firstname>
+        <lastname>Mesas Cervilla</lastname>
+        <nickname>fmesasc</nickname>
+        <salary currency="EUR">1000</salary>
+    </staff>
+    <staff id="0001">
+        <firstname>Manel</firstname>
+        <lastname>Taboada González</lastname>
+        <nickname>fmesasc</nickname>
+        <salary currency="EUR">1000</salary>
+    </staff>
+</company>
