@@ -1,0 +1,4 @@
+El tipo RunTime se debe a un error de codigo, no por un error externo, por ejemplo:
+>Si nos pasamos de un array es un problema de codigo. Ya que somos nosotros los que en vez de poner 10 nos hemos pasado y le hemos puesto 11.
+
+También se diferencian del resto de excepciones en que no son de tipo checked. Una excepción de tipo checked debe ser capturada o bien especificar que puede ser lanzada de forma obligatoria, y si no lo hacemos obtendremos un error de compilación. Dado que las RuntimeException pueden producirse en cualquier fragmento de código, sería impensable tener que añadir manejadores de excepciones y declarar que éstas pueden ser lanzadas en todo nuestro código.
