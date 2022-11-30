@@ -1,1 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><casas><casa><plantas>3</plantas></casa></casas>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<casas>
+    <casa>
+        <plantas>3</plantas>
+    </casa>
+</casas>

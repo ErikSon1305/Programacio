@@ -1,1 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><familias><familia1><Guarch>1</Guarch><Stuffmann>3</Stuffmann></familia1></familias>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<familias>
+    <familia1>
+        <Guarch>1</Guarch>
+        <Stuffmann>3</Stuffmann>
+    </familia1>
+</familias>
